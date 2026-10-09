@@ -10,7 +10,7 @@ Lambda - three separate functions that handle updating the counters<br>
 API Gateway - HTTP API that calls the lambda functions, one route for each function<br>
 
 Frontend (hosted on AWS amplify);<br>
-HTML - the usual...<br>
+HTML - the usual<br>
 JavaScript - async functions with fetch statements to access and run the lambdas<br>
 
 linky: https://main.drsh33h88fto1.amplifyapp.com/
