@@ -8,6 +8,6 @@ DynamoDB - stores persistent counter data<br>
 Lambda - three separate functions that handle updating the counters<br>
 API Gateway - HTTP API that calls the lambda functions, one route for each function<br>
 
-Frontend (hosted on AWS amplify);
-HTML - the usual...
-JavaScript - async functions with fetch statements to access and run the lambdas
+Frontend (hosted on AWS amplify);<br>
+HTML - the usual...<br>
+JavaScript - async functions with fetch statements to access and run the lambdas<br>
