@@ -1,6 +1,7 @@
 What the sam hill is this???<br>
 simple, single page website that tracks how many times its been loaded.
-also features additional counters for conditional events.
+also features additional counters for conditional events.<br>
+a serverless full stack web app for the buzzword inclined
 
 Overview (in laymans terms):<br>
 
